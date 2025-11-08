@@ -1,0 +1,6 @@
+venv
+indicadores_multivariado.csv
+indicadores_univariado.csv
+microdatos_eph_limpio.csv
+microdatos_eph_limpio.parquet
+microdatos_eph_2016_2025.csv
